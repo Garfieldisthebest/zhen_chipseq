@@ -1,0 +1,44 @@
+track 1_input_K562
+bigDataUrl https://ucscgenome.s3.us-east-2.amazonaws.com/1_input_K562.bw
+shortLabel 1_input_K562
+longLabel 1_input_K562 ChIP-seq
+type bigWig
+color 0,0,255
+visibility full
+autoScale on
+
+track 2_BAP1_k562
+bigDataUrl https://ucscgenome.s3.us-east-2.amazonaws.com/2_BAP1_k562.bw
+shortLabel 2_BAP1_k562
+longLabel 2_BAP1_k562 ChIP-seq
+type bigWig
+color 0,0,255
+visibility full
+autoScale on
+
+track 3_rIgG_k562
+bigDataUrl https://ucscgenome.s3.us-east-2.amazonaws.com/3_rIgG_k562.bw
+shortLabel 3_rIgG_k562
+longLabel 3_rIgG_k562 ChIP-seq
+type bigWig
+color 0,0,255
+visibility full
+autoScale on
+
+track 4_V5_k562
+bigDataUrl https://ucscgenome.s3.us-east-2.amazonaws.com/4_V5_k562.bw
+shortLabel 4_V5_k562
+longLabel 4_V5_k562 ChIP-seq
+type bigWig
+color 0,0,255
+visibility full
+autoScale on
+
+track 5_mIgG_k562
+bigDataUrl https://ucscgenome.s3.us-east-2.amazonaws.com/5_mIgG_k562.bw
+shortLabel 5_mIgG_k562
+longLabel 5_mIgG_k562 ChIP-seq
+type bigWig
+color 0,0,255
+visibility full
+autoScale on
