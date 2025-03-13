@@ -1,5 +1,7 @@
 hub Zhen_Chip_Seq
 shortLabel Chip_Seq
-longLabel Chip_Seq_Test_RUn
+longLabel Chip_Seq_Test_Run(hg38+mm39)
 genomesFile https://raw.githubusercontent.com/Garfieldisthebest/zhen_chipseq/main/genomes.txt
 email wzhao@lji.org
+
+
