@@ -1,0 +1,9 @@
+genome hg38
+trackDb https://raw.githubusercontent.com/Garfieldisthebest/zhen_chipseq/main/trackDb_hg38.txt
+organism Human
+description "Human (GRCh38/hg38)"
+
+genome mm39
+trackDb https://raw.githubusercontent.com/Garfieldisthebest/zhen_chipseq/main/trackDb_mm39.txt
+organism Mouse
+description "Mouse (GRCm39/mm39)"
