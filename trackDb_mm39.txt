@@ -1,0 +1,26 @@
+track 6_input_AA
+bigDataUrl https://ucscgenome.s3.us-east-2.amazonaws.com/6_input_AA.bw
+shortLabel 6_input_AA
+longLabel 6_input_AA ChIP-seq
+type bigWig
+color 0,0,255
+visibility full
+autoScale on
+
+track 7_BAP1_AA
+bigDataUrl https://ucscgenome.s3.us-east-2.amazonaws.com/7_BAP1_AA.bw
+shortLabel 7_BAP1_AA
+longLabel 7_BAP1_AA ChIP-seq
+type bigWig
+color 0,0,255
+visibility full
+autoScale on
+
+track 8_IgG_AA
+bigDataUrl https://ucscgenome.s3.us-east-2.amazonaws.com/8_IgG_AA.bw
+shortLabel 8_IgG_AA
+longLabel 8_IgG_AA ChIP-seq
+type bigWig
+color 0,0,255
+visibility full
+autoScale on
